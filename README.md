@@ -1,6 +1,7 @@
 # LinearFit 2.0
 
-LinearFit 2.0 is in beta form. Significant testing and code streamlining remain to be performed.
+LinearFit 2.0 is in beta form. Significant testing, code streamlining, and usability development
+(including writing a better Readme file) are still in progress.
 
 Please contact Jai Chowdhry Beeman at jai.beeman@univ-grenoble-alpes.fr for questions about running or development.
 
